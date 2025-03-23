@@ -37,6 +37,7 @@ Outside of coding, you’ll probably find me weightlifting, swimming, playing sa
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fdavidshcherbatykh)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
