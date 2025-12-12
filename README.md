@@ -20,7 +20,6 @@ Outside of coding, I like to weightlift, swim, play sax & piano, and mess around
 ![pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat&logo=langchain&logoColor=white)
 
