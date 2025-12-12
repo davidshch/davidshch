@@ -48,6 +48,6 @@ Outside of coding, I like to weightlift, swim, play sax & piano, and mess around
 ---
 
 ### 🤝 Let's Connect!
-Feel free to check out my work or reach out on [LinkedIn](https://linkedin.com/in/davidshcherbatykh) — I’m always up to work on a project or just chat!
+Feel free to check out some of my stuff or reach out on [LinkedIn](https://linkedin.com/in/davidshcherbatykh) — I’m always up to work on a project or just chat!
 
 
