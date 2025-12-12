@@ -3,7 +3,7 @@ Student Engineer 👨‍💻 | Builder 🛠️ | Athlete 🏊‍♂️ | Always 
 
 I'm a student passionate about building projects that combine my finance, AI, and athletics interests! I’m currently developing [MacroMind](https://github.com/davidshch/MacroMind), an AI-powered economic platform for traders and investors.
 
-Outside of coding, you’ll probably find me weightlifting, swimming, playing sax & piano, or messing around with circuits.
+Outside of coding, I like to weightlift, swim, play sax & piano, and mess around with circuits.
 
 ---
 
